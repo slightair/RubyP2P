@@ -1,0 +1,9 @@
+# config.yaml
+
+RubyP2P:
+    nodes_file:   "nodes.txt"     # node list file name
+    service_port: 49000           # Servent service port
+    log_file:     "rbp2p.log"     # log file name
+    log_level:    "INFO"         # save log level
+P2PChat:
+    name: "taro"
